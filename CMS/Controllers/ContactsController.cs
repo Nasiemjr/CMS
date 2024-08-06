@@ -19,9 +19,22 @@ namespace CMS.Controllers
         }
 
         // GET: Contacts
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Contact.ToListAsync());
+            if (_context.Contact == null)
+            {
+                return Problem("Entity set 'ContactDBContext.Contact'  is null.");
+            }
+
+            var contacts = from m in _context.Contact
+                           select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                contacts = contacts.Where(s => s.Name!.ToUpper().Contains(searchString.ToUpper()));
+            }
+
+            return View(await contacts.ToListAsync());
         }
 
         // GET: Contacts/Details/5

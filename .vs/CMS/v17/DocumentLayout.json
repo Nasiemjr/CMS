@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nasie\\source\\repos\\CMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\models\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\models\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|solutionrelative:cms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD9029C6-6CE5-43BB-AFD5-B912EDF84195}|CMS\\CMS.csproj|c:\\users\\nasie\\source\\repos\\cms\\cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "CMS\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "CMS\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T21:17:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Views\\Contacts\\Index.cshtml",
               "RelativeDocumentMoniker": "CMS\\Views\\Contacts\\Index.cshtml",
               "ToolTip": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Views\\Contacts\\Index.cshtml",
               "RelativeToolTip": "CMS\\Views\\Contacts\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAQAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-06T21:01:19.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CMS\\Views\\Shared\\_Layout.cshtml",
@@ -67,8 +84,7 @@
               "RelativeToolTip": "CMS\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T21:00:49.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T21:00:49.449Z"
             },
             {
               "$type": "Document",
@@ -78,14 +94,14 @@
               "RelativeDocumentMoniker": "CMS\\Controllers\\ContactsController.cs",
               "ToolTip": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "CMS\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T20:59:49.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Program.cs",
               "RelativeDocumentMoniker": "CMS\\Program.cs",
@@ -93,8 +109,7 @@
               "RelativeToolTip": "CMS\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T20:59:09.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:59:09.09Z"
             },
             {
               "$type": "Document",
@@ -111,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\nasie\\source\\repos\\CMS\\CMS\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "CMS\\Models\\Contact.cs",
@@ -119,8 +134,7 @@
               "RelativeToolTip": "CMS\\Models\\Contact.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T20:55:34.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:55:34.757Z"
             }
           ]
         }

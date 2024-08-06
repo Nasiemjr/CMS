@@ -229,3 +229,4 @@ C:\Users\nasie\source\repos\CMS\CMS\obj\Debug\net8.0\refint\CMS.dll
 C:\Users\nasie\source\repos\CMS\CMS\obj\Debug\net8.0\CMS.pdb
 C:\Users\nasie\source\repos\CMS\CMS\obj\Debug\net8.0\CMS.genruntimeconfig.cache
 C:\Users\nasie\source\repos\CMS\CMS\obj\Debug\net8.0\ref\CMS.dll
+C:\Users\nasie\source\repos\CMS\CMS\obj\Debug\net8.0\CMS.sourcelink.json
